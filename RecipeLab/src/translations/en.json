@@ -1,0 +1,77 @@
+{
+  "translation": {
+    "error": {
+      "Remove": "Dismiss"
+    },
+    "drawer": {
+      "Logout": " Logout",
+      "AddRecipe": "Add recipe",
+      "Login": "Login",
+      "OwnRecipes": "Own recipes",
+      "LikedRecipes": "Liked recipes",
+      "AddShoppingList": "Add shopping list"
+    },
+    "navigation": {
+      "Recipes": "Recipes",
+      "ShoppingList": "Shopping list",
+      "Profile": "Profile",
+      "RecipeHeader": "Recipes",
+      "EditRecipe": "Edit Recipe"
+    },
+    "recipe": {
+      "SearchRecipe": "Search recipes",
+      "AddIngredient": "Add ingredient",
+      "TimeToMake": "Time to make",
+      "SearchIngredient": "Search for ingredient",
+      "Amount": "Amount",
+      "Servings": "Servings",
+      "Ingredients": "Ingredients",
+      "Directions": "Directions",
+      "Direction": "Direction",
+      "Step": "Step",
+      "RecipeName": "Recipe name",
+      "Private": "Private",
+      "Description": "Description",
+      "AddIngredientsToList": "Add ingredients to the list...",
+      "AddDirectionToList": "Add directions to the list...",
+      "AddImage": "Add image",
+      "Cancel": "Cancel",
+      "Add": "Add",
+      "Delete": "Delete",
+      "SaveChanges": "Save changes",
+      "DeleteRecipe": "Are you sure you want to delete this recipe?"
+    },
+    "shoppingList": {
+      "AddToShoppinglist": "Add",
+      "AddRecipeToShoppingList": "Would you like to add this recipe to your shopping list?",
+      "NoAccess": "You have to log in, to be able the access your own shopping list.",
+      "DeleteIngredients": "Do you want to delete all marked ingredients?",
+      "DeleteIngredient": "Do you want to delete this ingredient?",
+      "EditIngredient": "Edit ingredient",
+      "Name": "Name",
+      "ShoppingListPlaceholder": "Shopping list name",
+      "CreateShoppingList": "Create shopping list",
+      "EditShoppingList": "Edit shopping list"
+    },
+    "countries": {
+      "English": "English",
+      "Danish": "Danish"
+    },
+    "profile": {
+      "Language": "Language",
+      "SelectLanguage": "Select language"
+    },
+    "status": {
+      "LoginToLike": "You have to be logged in to like",
+      "LikedRecipe": "You liked a recipe",
+      "AddRecipeToShoppingList": "You added a recipe to the shooping list",
+      "RemoveRecipe": "You deleted a recipe",
+      "RemoveIngredient": "Ingredient removed",
+      "EditIngredient": "Ingredient edited",
+      "RemovedIngredients": "Removed marked ingredients",
+      "AddedItemToShoppinglist": "Added item to shopping list",
+      "AddRecipe": "New recipe added",
+      "EditRecipe": "Recipe edited"
+    }
+  }
+}

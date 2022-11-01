@@ -1,0 +1,77 @@
+{
+  "translation": {
+    "error": {
+      "Remove": "Fjern"
+    },
+    "drawer": {
+      "Logout": " Log ud",
+      "AddRecipe": "Tilføj opksrift",
+      "Login": "Log ind",
+      "OwnRecipes": "Egne opskrifter",
+      "LikedRecipes": "Favoriserede opskrifter",
+      "AddShoppingList": "Tilføj indkøbsliste"
+    },
+    "navigation": {
+      "Recipes": "Opskrifter",
+      "ShoppingList": "Indkøbsliste",
+      "Profile": "Profil",
+      "RecipeHeader": "Opskrifter",
+      "EditRecipe": "Ændre opskrift"
+    },
+    "recipe": {
+      "SearchRecipe": "Søg efter opskrifter",
+      "AddIngredient": "Tilføj ingrediens",
+      "TimeToMake": "Samlet varighed",
+      "SearchIngredient": "Søg efter ingrediens",
+      "Amount": "Mængde",
+      "Servings": "Portioner",
+      "Ingredients": "Ingredienser",
+      "Directions": "Instruktioner",
+      "Direction": "Instruktion",
+      "Step": "Trin",
+      "RecipeName": "Opskrift navn",
+      "Private": "Privat",
+      "Description": "Beskrivelse",
+      "AddIngredientsToList": "Tilføj ingredienser til listen...",
+      "AddDirectionToList": "Tilføj instruktioner til listen...",
+      "AddImage": "Tilføj billede",
+      "Cancel": "Annuller",
+      "Delete": "Slet",
+      "Add": "Opret",
+      "SaveChanges": "Gem ændringer",
+      "DeleteRecipe": "Er du sikker på du at vil slette denne opskrift?"
+    },
+    "shoppingList": {
+      "AddToShoppinglist": "Tilføj",
+      "AddRecipeToShoppingList": "Vil du tilføje opskriften til din indkøbsliste?",
+      "NoAccess": "Du skal logge ind for at kunne se din egen indkøbsliste.",
+      "DeleteIngredients": "Vil du slette de markerede ingredienser?",
+      "DeleteIngredient": "Vil du slette denne ingrediens?",
+      "EditIngredient": "Ret ingrediens",
+      "Name": "Navn",
+      "ShoppingListPlaceholder": "Navn på indkøbslisten",
+      "CreateShoppingList": "Opret indkøbsliste",
+      "EditShoppingList": "Ret indkøbsliste"
+    },
+    "countries": {
+      "English": "Engelsk",
+      "Danish": "Dansk"
+    },
+    "profile": {
+      "Language": "Sprog:",
+      "SelectLanguage": "Vælg sprog"
+    },
+    "status": {
+      "LoginToLike": "Du skal være logget ind for at kunne like",
+      "LikedRecipe": "Du likede en opskrift",
+      "AddRecipeToShoppingList": "Du tilføjede en opskrift til indkøbslisten",
+      "RemoveRecipe": "Du slettede en opskrift",
+      "RemoveIngredient": "Ingrediens er slettet",
+      "EditIngredient": "Ingrediens er rettet",
+      "RemovedIngredients": "Slettede markerede ingredienser",
+      "AddedItemToShoppinglist": "Tilføjede ingrediens til indkøbslisten",
+      "AddRecipe": "Ny opskrift tilføjet",
+      "EditRecipe": "Opskriften er ændret"
+    }
+  }
+}
